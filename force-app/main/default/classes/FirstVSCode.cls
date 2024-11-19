@@ -6,6 +6,7 @@ public with sharing class FirstVSCode
      System.debug('Hi');
      System.debug('Welcome');   
      System.debug('Hey'); 
+     System.debug('Bye'); 
     }
 
 }
